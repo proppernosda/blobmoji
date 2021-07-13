@@ -2803,6 +2803,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![guard medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/guard%20medium-dark%20skin%20tone.svg) | [`svg/guard medium-dark skin tone.svg`](svg/guard%20medium-dark%20skin%20tone.svg) |
 | ![guard medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/guard%20medium-light%20skin%20tone.svg) | [`svg/guard medium-light skin tone.svg`](svg/guard%20medium-light%20skin%20tone.svg) |
 | ![guard](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/guard.svg) | [`svg/guard.svg`](svg/guard.svg) |
+| ![hamsa](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/hamsa.svg) | [`svg/hamsa.svg`](svg/hamsa.svg) |
 | ![handshake dark skin tone light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/handshake%20dark%20skin%20tone%20light%20skin%20tone.svg) | [`svg/handshake dark skin tone light skin tone.svg`](svg/handshake%20dark%20skin%20tone%20light%20skin%20tone.svg) |
 | ![handshake dark skin tone medium skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/handshake%20dark%20skin%20tone%20medium%20skin%20tone.svg) | [`svg/handshake dark skin tone medium skin tone.svg`](svg/handshake%20dark%20skin%20tone%20medium%20skin%20tone.svg) |
 | ![handshake dark skin tone medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/handshake%20dark%20skin%20tone%20medium-dark%20skin%20tone.svg) | [`svg/handshake dark skin tone medium-dark skin tone.svg`](svg/handshake%20dark%20skin%20tone%20medium-dark%20skin%20tone.svg) |
@@ -3104,6 +3105,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![mx claus medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/mx%20claus%20medium-dark%20skin%20tone.svg) | [`svg/mx claus medium-dark skin tone.svg`](svg/mx%20claus%20medium-dark%20skin%20tone.svg) |
 | ![mx claus medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/mx%20claus%20medium-light%20skin%20tone.svg) | [`svg/mx claus medium-light skin tone.svg`](svg/mx%20claus%20medium-light%20skin%20tone.svg) |
 | ![mx claus](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/mx%20claus.svg) | [`svg/mx claus.svg`](svg/mx%20claus.svg) |
+| ![nest with eggs](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/nest%20with%20eggs.svg) | [`svg/nest with eggs.svg`](svg/nest%20with%20eggs.svg) |
 | ![nesting dolls](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/nesting%20dolls.svg) | [`svg/nesting dolls.svg`](svg/nesting%20dolls.svg) |
 | ![ninja dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/ninja%20dark%20skin%20tone.svg) | [`svg/ninja dark skin tone.svg`](svg/ninja%20dark%20skin%20tone.svg) |
 | ![ninja light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/ninja%20light%20skin%20tone.svg) | [`svg/ninja light skin tone.svg`](svg/ninja%20light%20skin%20tone.svg) |
@@ -3118,6 +3120,8 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![office worker medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/office%20worker%20medium-light%20skin%20tone.svg) | [`svg/office worker medium-light skin tone.svg`](svg/office%20worker%20medium-light%20skin%20tone.svg) |
 | ![office worker](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/office%20worker.svg) | [`svg/office worker.svg`](svg/office%20worker.svg) |
 | ![olive](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/olive.svg) | [`svg/olive.svg`](svg/olive.svg) |
+| ![palm down hand](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20down%20hand.svg) | [`svg/palm down hand.svg`](svg/palm%20down%20hand.svg) |
+| ![palm up hand](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20up%20hand.svg) | [`svg/palm up hand.svg`](svg/palm%20up%20hand.svg) |
 | ![people hugging](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/people%20hugging.svg) | [`svg/people hugging.svg`](svg/people%20hugging.svg) |
 | ![people with bunny ears](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/people%20with%20bunny%20ears.svg) | [`svg/people with bunny ears.svg`](svg/people%20with%20bunny%20ears.svg) |
 | ![people wrestling](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/people%20wrestling.svg) | [`svg/people wrestling.svg`](svg/people%20wrestling.svg) |
@@ -3452,6 +3456,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![technologist](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/technologist.svg) | [`svg/technologist.svg`](svg/technologist.svg) |
 | ![thong sandal](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/thong%20sandal.svg) | [`svg/thong sandal.svg`](svg/thong%20sandal.svg) |
 | ![toothbrush](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/toothbrush.svg) | [`svg/toothbrush.svg`](svg/toothbrush.svg) |
+| ![troll](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/troll.svg) | [`svg/troll.svg`](svg/troll.svg) |
 | ![vampire dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/vampire%20dark%20skin%20tone.svg) | [`svg/vampire dark skin tone.svg`](svg/vampire%20dark%20skin%20tone.svg) |
 | ![vampire light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/vampire%20light%20skin%20tone.svg) | [`svg/vampire light skin tone.svg`](svg/vampire%20light%20skin%20tone.svg) |
 | ![vampire medium skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/vampire%20medium%20skin%20tone.svg) | [`svg/vampire medium skin tone.svg`](svg/vampire%20medium%20skin%20tone.svg) |
@@ -3553,3 +3558,4 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![women holding hands medium-light skin tone medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/women%20holding%20hands%20medium-light%20skin%20tone%20medium-dark%20skin%20tone.svg) | [`svg/women holding hands medium-light skin tone medium-dark skin tone.svg`](svg/women%20holding%20hands%20medium-light%20skin%20tone%20medium-dark%20skin%20tone.svg) |
 | ![wood](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/wood.svg) | [`svg/wood.svg`](svg/wood.svg) |
 | ![worm](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/worm.svg) | [`svg/worm.svg`](svg/worm.svg) |
+| ![x-ray](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/x-ray.svg) | [`svg/x-ray.svg`](svg/x-ray.svg) |
