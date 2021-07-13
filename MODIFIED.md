@@ -2843,6 +2843,12 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![health worker medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/health%20worker%20medium-dark%20skin%20tone.svg) | [`svg/health worker medium-dark skin tone.svg`](svg/health%20worker%20medium-dark%20skin%20tone.svg) |
 | ![health worker medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/health%20worker%20medium-light%20skin%20tone.svg) | [`svg/health worker medium-light skin tone.svg`](svg/health%20worker%20medium-light%20skin%20tone.svg) |
 | ![health worker](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/health%20worker.svg) | [`svg/health worker.svg`](svg/health%20worker.svg) |
+| ![heart hands dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/heart%20hands%20dark%20skin%20tone.svg) | [`svg/heart hands dark skin tone.svg`](svg/heart%20hands%20dark%20skin%20tone.svg) |
+| ![heart hands light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/heart%20hands%20light%20skin%20tone.svg) | [`svg/heart hands light skin tone.svg`](svg/heart%20hands%20light%20skin%20tone.svg) |
+| ![heart hands medium skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/heart%20hands%20medium%20skin%20tone.svg) | [`svg/heart hands medium skin tone.svg`](svg/heart%20hands%20medium%20skin%20tone.svg) |
+| ![heart hands medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/heart%20hands%20medium-dark%20skin%20tone.svg) | [`svg/heart hands medium-dark skin tone.svg`](svg/heart%20hands%20medium-dark%20skin%20tone.svg) |
+| ![heart hands medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/heart%20hands%20medium-light%20skin%20tone.svg) | [`svg/heart hands medium-light skin tone.svg`](svg/heart%20hands%20medium-light%20skin%20tone.svg) |
+| ![heart hands](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/heart%20hands.svg) | [`svg/heart hands.svg`](svg/heart%20hands.svg) |
 | ![heart on fire](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/heart%20on%20fire.svg) | [`svg/heart on fire.svg`](svg/heart%20on%20fire.svg) |
 | ![hook](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/hook.svg) | [`svg/hook.svg`](svg/hook.svg) |
 | ![hut](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/hut.svg) | [`svg/hut.svg`](svg/hut.svg) |
@@ -3133,7 +3139,17 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![office worker medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/office%20worker%20medium-light%20skin%20tone.svg) | [`svg/office worker medium-light skin tone.svg`](svg/office%20worker%20medium-light%20skin%20tone.svg) |
 | ![office worker](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/office%20worker.svg) | [`svg/office worker.svg`](svg/office%20worker.svg) |
 | ![olive](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/olive.svg) | [`svg/olive.svg`](svg/olive.svg) |
+| ![palm down hand dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20down%20hand%20dark%20skin%20tone.svg) | [`svg/palm down hand dark skin tone.svg`](svg/palm%20down%20hand%20dark%20skin%20tone.svg) |
+| ![palm down hand light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20down%20hand%20light%20skin%20tone.svg) | [`svg/palm down hand light skin tone.svg`](svg/palm%20down%20hand%20light%20skin%20tone.svg) |
+| ![palm down hand medium skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20down%20hand%20medium%20skin%20tone.svg) | [`svg/palm down hand medium skin tone.svg`](svg/palm%20down%20hand%20medium%20skin%20tone.svg) |
+| ![palm down hand medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20down%20hand%20medium-dark%20skin%20tone.svg) | [`svg/palm down hand medium-dark skin tone.svg`](svg/palm%20down%20hand%20medium-dark%20skin%20tone.svg) |
+| ![palm down hand medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20down%20hand%20medium-light%20skin%20tone.svg) | [`svg/palm down hand medium-light skin tone.svg`](svg/palm%20down%20hand%20medium-light%20skin%20tone.svg) |
 | ![palm down hand](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20down%20hand.svg) | [`svg/palm down hand.svg`](svg/palm%20down%20hand.svg) |
+| ![palm up hand dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20up%20hand%20dark%20skin%20tone.svg) | [`svg/palm up hand dark skin tone.svg`](svg/palm%20up%20hand%20dark%20skin%20tone.svg) |
+| ![palm up hand light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20up%20hand%20light%20skin%20tone.svg) | [`svg/palm up hand light skin tone.svg`](svg/palm%20up%20hand%20light%20skin%20tone.svg) |
+| ![palm up hand medium skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20up%20hand%20medium%20skin%20tone.svg) | [`svg/palm up hand medium skin tone.svg`](svg/palm%20up%20hand%20medium%20skin%20tone.svg) |
+| ![palm up hand medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20up%20hand%20medium-dark%20skin%20tone.svg) | [`svg/palm up hand medium-dark skin tone.svg`](svg/palm%20up%20hand%20medium-dark%20skin%20tone.svg) |
+| ![palm up hand medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20up%20hand%20medium-light%20skin%20tone.svg) | [`svg/palm up hand medium-light skin tone.svg`](svg/palm%20up%20hand%20medium-light%20skin%20tone.svg) |
 | ![palm up hand](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/palm%20up%20hand.svg) | [`svg/palm up hand.svg`](svg/palm%20up%20hand.svg) |
 | ![people hugging](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/people%20hugging.svg) | [`svg/people hugging.svg`](svg/people%20hugging.svg) |
 | ![people with bunny ears](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/people%20with%20bunny%20ears.svg) | [`svg/people with bunny ears.svg`](svg/people%20with%20bunny%20ears.svg) |
