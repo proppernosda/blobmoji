@@ -1,4 +1,4 @@
-_This file will not be updated anymore. Please look at `CHANGED.md` instead_
+_This file will not be updated anymore. Please look at `MODIFIED.md` instead_
 
 Changes from Google Noto Color Emoji v2017-05-18 (approx.)
 =======
