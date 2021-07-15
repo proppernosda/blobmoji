@@ -2,7 +2,7 @@
 I am **neither** affiliated nor in _any_ relationship to the original creators or to Emojipedia or anything or anyone else.
 
 ![Noto](images/noto.png)
-# Noto Emoji, but with Blobs
+
 
 This repository is intended to continue the development of the Blob emojis which have been replaced by different designs in 2017.
 
