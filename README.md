@@ -39,7 +39,7 @@ Alternatively, you can also build the font within Docker through the provided Do
 Just run `docker build . -t blobmoji && docker run --rm -it -v "$PWD/output:/output" blobmoji`. The resulting font will reside in the 'output' folder in your current working directory (Note that the volume assignment `-v "$PWD/output:/output"` might not work correctly on Windows).
 
 
-## License
+# License
 
 From Noto Emoji:
  > Emoji fonts (under the fonts subdirectory) are under the
@@ -50,7 +50,7 @@ otherwise exempt from copyright ([more info](third_party/region-flags/LICENSE)).
 
 This license also applies to this repository
 
-## Contributing
+# Contributing
 
 As there is not much going on here, there are as of now no complicated rules for contribution.  
 You can simply start pull requests, issues and discussions. I'll try to respond as soon as possible. 
