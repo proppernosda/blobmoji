@@ -15,7 +15,7 @@ _Microsoft, Windows are trademarks of the Microsoft group of companies._
 _Noto is a trademark of Google Inc._
 
 # How to use this font
-See https://github.com/C1710/blobmoji/wiki/Installation---Usage
+See https://github.com/C1710/blobmoji/wiki/Installation-and-Usage
 
 # How to build it
 Starting with Emoji 13, the build scripts used by Noto Emoji are not (directly) used anymore.  
