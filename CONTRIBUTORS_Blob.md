@@ -1,5 +1,6 @@
 # These are people who contributed to this repository after the Blobmoji fork has been created
 
+- @ann4belle - Improvements to the Dockerfile (original one)
 - @Crissov - Creation of the original `CHANGES.md`
 - @luisdralves - Design for the mouth of Smiling Face with Tear/proposed design
 - @Madis0 - Many useful suggestions
