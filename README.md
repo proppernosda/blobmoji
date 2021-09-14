@@ -34,6 +34,8 @@ emoji_builder --flags ./third_party/region-flags/svg blobmoji -w -a ./emoji_alia
 - `--palette` normalize the colors to a specific color palette in the GIMP format (which is a derivation of the color palette present in the [2014 _Material Design_](https://material.io/archive/guidelines/style/color.html#color-color-palette))
 - `--default_font` Because the graphics program I currently use (Affinity Designer) outputs font specifications in a format that `resvg`/`emoji_builder` has issues with, the font is explicitly specified here (note that if the font is correctly recognized, this one is not used. So as of now it is _not_ used to use a font for _all_ emojis)
 
+The build script I use myself is included. Please be aware that this is made to be used on Windows and requires `emoji_builder` to be installed and included in PATH, as well as an adjacent directory containing the EmojiCompat scripts and unicode tables.
+
 # Docker Build
 Alternatively, you can also build the font within Docker through the provided Dockerfile.
 Just run `docker build . -t blobmoji && docker run --rm -it -v "$PWD/output:/output" blobmoji`. The resulting font will reside in the 'output' folder in your current working directory (Note that the volume assignment `-v "$PWD/output:/output"` might not work correctly on Windows).
