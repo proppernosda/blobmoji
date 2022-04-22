@@ -4989,36 +4989,38 @@
 # component : 9
 
 # Additions Emoji 15
-1FAE8												   ; fully-qualified     # ? E15.0 shaking face
-1FA75												   ; fully-qualified	 # ? E15.0 light blue heart
-1FA76												   ; fully-qualified	 # ? E15.0 grey heart
-1FA77												   ; fully-qualified	 # ? E15.0 pink heart
-1FAF7												   ; fully-qualified	 # ? E15.0 leftwards pushing hand
-1FAF8												   ; fully-qualified	 # ? E15.0 rightwards pushing hand
-1FACE												   ; fully-qualified	 # ? E15.0 moose
-1FACF												   ; fully-qualified	 # ? E15.0 donkey
-1FABD												   ; fully-qualified	 # ? E15.0 wing
-1FABF												   ; fully-qualified	 # ? E15.0 goose
-1FABC												   ; fully-qualified	 # ? E15.0 jellyfish
-1FABB												   ; fully-qualified	 # ? E15.0 hyacinth
-1FADA												   ; fully-qualified	 # ? E15.0 ginger root
-1FADB												   ; fully-qualified	 # ? E15.0 pea pod
-1FAAD												   ; fully-qualified	 # ? E15.0 folding hand fan
-1FAAE												   ; fully-qualified	 # ? E15.0 hair pick
-1FA87												   ; fully-qualified	 # ? E15.0 maracas
-1FA88												   ; fully-qualified	 # ? E15.0 flute
-1FAAF												   ; fully-qualified	 # ? E15.0 khanda
-1F6DC												   ; fully-qualified	 # ? E15.0 wireless
+1FAE8                                                 ; fully-qualified     # ? E15.0 shaking face
+1FA75                                                 ; fully-qualified     # ? E15.0 light blue heart
+1FA76                                                 ; fully-qualified     # ? E15.0 grey heart
+1FA77                                                 ; fully-qualified     # ? E15.0 pink heart
+1FAF7                                                 ; fully-qualified     # ? E15.0 leftwards pushing hand
+1FAF8                                                 ; fully-qualified     # ? E15.0 rightwards pushing hand
+1FACE                                                 ; fully-qualified     # ? E15.0 moose
+1FACF                                                 ; fully-qualified     # ? E15.0 donkey
+1FABD                                                 ; fully-qualified     # ? E15.0 wing
+1FABF                                                 ; fully-qualified     # ? E15.0 goose
+1FABC                                                 ; fully-qualified     # ? E15.0 jellyfish
+1FABB                                                 ; fully-qualified     # ? E15.0 hyacinth
+1FADA                                                 ; fully-qualified     # ? E15.0 ginger root
+1FADB                                                 ; fully-qualified     # ? E15.0 pea pod
+1FAAD                                                 ; fully-qualified     # ? E15.0 folding hand fan
+1FAAE                                                 ; fully-qualified     # ? E15.0 hair pick
+1FA87                                                 ; fully-qualified     # ? E15.0 maracas
+1FA88                                                 ; fully-qualified     # ? E15.0 flute
+1FAAF                                                 ; fully-qualified     # ? E15.0 khanda
+1F6DC                                                 ; fully-qualified     # ? E15.0 wireless
 
-1FAF7 1F3FB											   ; fully-qualified	 # ? E15.0 leftwards pushing hand: light skin tone
-1FAF7 1F3FC											   ; fully-qualified	 # ? E15.0 leftwards pushing hand: medium-light skin tone
-1FAF7 1F3FD											   ; fully-qualified	 # ? E15.0 leftwards pushing hand: medium skin tone
-1FAF7 1F3FE											   ; fully-qualified	 # ? E15.0 leftwards pushing hand: medium-dark skin tone
-1FAF7 1F3FF											   ; fully-qualified	 # ? E15.0 leftwards pushing hand: dark skin tone
-1FAF8 1F3FB											   ; fully-qualified	 # ? E15.0 rightwards pushing hand: light skin tone
-1FAF8 1F3FC											   ; fully-qualified	 # ? E15.0 rightwards pushing hand: medium-light skin tone
-1FAF8 1F3FD											   ; fully-qualified	 # ? E15.0 rightwards pushing hand: medium skin tone
-1FAF8 1F3FE											   ; fully-qualified	 # ? E15.0 rightwards pushing hand: medium-dark skin tone
-1FAF8 1F3FF											   ; fully-qualified	 # ? E15.0 rightwards pushing hand: dark skin tone
+1F426 200D 2B1B                                       ; fully-qualified     # ? E15.0 black bird
+
+1FAF7 1F3FB                                           ; fully-qualified     # ? E15.0 leftwards pushing hand: light skin tone
+1FAF7 1F3FC                                           ; fully-qualified     # ? E15.0 leftwards pushing hand: medium-light skin tone
+1FAF7 1F3FD                                           ; fully-qualified     # ? E15.0 leftwards pushing hand: medium skin tone
+1FAF7 1F3FE                                           ; fully-qualified     # ? E15.0 leftwards pushing hand: medium-dark skin tone
+1FAF7 1F3FF                                           ; fully-qualified     # ? E15.0 leftwards pushing hand: dark skin tone
+1FAF8 1F3FB                                           ; fully-qualified     # ? E15.0 rightwards pushing hand: light skin tone
+1FAF8 1F3FC                                           ; fully-qualified     # ? E15.0 rightwards pushing hand: medium-light skin tone
+1FAF8 1F3FD                                           ; fully-qualified     # ? E15.0 rightwards pushing hand: medium skin tone
+1FAF8 1F3FE                                           ; fully-qualified     # ? E15.0 rightwards pushing hand: medium-dark skin tone
+1FAF8 1F3FF                                           ; fully-qualified     # ? E15.0 rightwards pushing hand: dark skin tone
 
 #EOF
