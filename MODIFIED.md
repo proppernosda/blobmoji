@@ -28,6 +28,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![bell pepper](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/bell%20pepper.svg) | [`svg/bell pepper.svg`](svg/bell%20pepper.svg) |
 | ![bison](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/bison.svg) | [`svg/bison.svg`](svg/bison.svg) |
 | ![biting lip](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/biting%20lip.svg) | [`svg/biting lip.svg`](svg/biting%20lip.svg) |
+| ![black bird](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/black%20bird.svg) | [`svg/black bird.svg`](svg/black%20bird.svg) |
 | ![black cat](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/black%20cat.svg) | [`svg/black cat.svg`](svg/black%20cat.svg) |
 | ![blueberries](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/blueberries.svg) | [`svg/blueberries.svg`](svg/blueberries.svg) |
 | ![boomerang](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/boomerang.svg) | [`svg/boomerang.svg`](svg/boomerang.svg) |
@@ -166,6 +167,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![detective](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/detective.svg) | [`svg/detective.svg`](svg/detective.svg) |
 | ![disguised face](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/disguised%20face.svg) | [`svg/disguised face.svg`](svg/disguised%20face.svg) |
 | ![dodo](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/dodo.svg) | [`svg/dodo.svg`](svg/dodo.svg) |
+| ![donkey](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/donkey.svg) | [`svg/donkey.svg`](svg/donkey.svg) |
 | ![dotted line face](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/dotted%20line%20face.svg) | [`svg/dotted line face.svg`](svg/dotted%20line%20face.svg) |
 | ![elevator](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/elevator.svg) | [`svg/elevator.svg`](svg/elevator.svg) |
 | ![elf dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/elf%20dark%20skin%20tone.svg) | [`svg/elf dark skin tone.svg`](svg/elf%20dark%20skin%20tone.svg) |
@@ -2802,6 +2804,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![foot medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/foot%20medium-light%20skin%20tone.svg) | [`svg/foot medium-light skin tone.svg`](svg/foot%20medium-light%20skin%20tone.svg) |
 | ![foot](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/foot.svg) | [`svg/foot.svg`](svg/foot.svg) |
 | ![genie](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/genie.svg) | [`svg/genie.svg`](svg/genie.svg) |
+| ![grey heart](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/grey%20heart.svg) | [`svg/grey heart.svg`](svg/grey%20heart.svg) |
 | ![guard dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/guard%20dark%20skin%20tone.svg) | [`svg/guard dark skin tone.svg`](svg/guard%20dark%20skin%20tone.svg) |
 | ![guard light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/guard%20light%20skin%20tone.svg) | [`svg/guard light skin tone.svg`](svg/guard%20light%20skin%20tone.svg) |
 | ![guard medium skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/guard%20medium%20skin%20tone.svg) | [`svg/guard medium skin tone.svg`](svg/guard%20medium%20skin%20tone.svg) |
@@ -2984,6 +2987,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![leg medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/leg%20medium-dark%20skin%20tone.svg) | [`svg/leg medium-dark skin tone.svg`](svg/leg%20medium-dark%20skin%20tone.svg) |
 | ![leg medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/leg%20medium-light%20skin%20tone.svg) | [`svg/leg medium-light skin tone.svg`](svg/leg%20medium-light%20skin%20tone.svg) |
 | ![leg](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/leg.svg) | [`svg/leg.svg`](svg/leg.svg) |
+| ![light blue heart](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/light%20blue%20heart.svg) | [`svg/light blue heart.svg`](svg/light%20blue%20heart.svg) |
 | ![long drum](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/long%20drum.svg) | [`svg/long drum.svg`](svg/long%20drum.svg) |
 | ![low battery](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/low%20battery.svg) | [`svg/low battery.svg`](svg/low%20battery.svg) |
 | ![lungs](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/lungs.svg) | [`svg/lungs.svg`](svg/lungs.svg) |
@@ -3121,6 +3125,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![merperson](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/merperson.svg) | [`svg/merperson.svg`](svg/merperson.svg) |
 | ![military helmet](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/military%20helmet.svg) | [`svg/military helmet.svg`](svg/military%20helmet.svg) |
 | ![mirror](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/mirror.svg) | [`svg/mirror.svg`](svg/mirror.svg) |
+| ![moose](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/moose.svg) | [`svg/moose.svg`](svg/moose.svg) |
 | ![mouse trap](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/mouse%20trap.svg) | [`svg/mouse trap.svg`](svg/mouse%20trap.svg) |
 | ![mx claus dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/mx%20claus%20dark%20skin%20tone.svg) | [`svg/mx claus dark skin tone.svg`](svg/mx%20claus%20dark%20skin%20tone.svg) |
 | ![mx claus light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/mx%20claus%20light%20skin%20tone.svg) | [`svg/mx claus light skin tone.svg`](svg/mx%20claus%20light%20skin%20tone.svg) |
@@ -3417,7 +3422,8 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![pinched fingers medium-dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/pinched%20fingers%20medium-dark%20skin%20tone.svg) | [`svg/pinched fingers medium-dark skin tone.svg`](svg/pinched%20fingers%20medium-dark%20skin%20tone.svg) |
 | ![pinched fingers medium-light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/pinched%20fingers%20medium-light%20skin%20tone.svg) | [`svg/pinched fingers medium-light skin tone.svg`](svg/pinched%20fingers%20medium-light%20skin%20tone.svg) |
 | ![pinched fingers](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/pinched%20fingers.svg) | [`svg/pinched fingers.svg`](svg/pinched%20fingers.svg) |
-| ![pi�ata](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/pi�ata.svg) | [`svg/pi�ata.svg`](svg/pi�ata.svg) |
+| ![pink heart](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/pink%20heart.svg) | [`svg/pink heart.svg`](svg/pink%20heart.svg) |
+| ![piñata](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/piñata.svg) | [`svg/piñata.svg`](svg/piñata.svg) |
 | ![placard](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/placard.svg) | [`svg/placard.svg`](svg/placard.svg) |
 | ![plunger](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/plunger.svg) | [`svg/plunger.svg`](svg/plunger.svg) |
 | ![polar bear](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/polar%20bear.svg) | [`svg/polar bear.svg`](svg/polar%20bear.svg) |
@@ -3460,6 +3466,7 @@ There may be some mistakes/missing emojis; Last changed: 2021-07-13
 | ![screwdriver](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/screwdriver.svg) | [`svg/screwdriver.svg`](svg/screwdriver.svg) |
 | ![seal](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/seal.svg) | [`svg/seal.svg`](svg/seal.svg) |
 | ![sewing needle](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/sewing%20needle.svg) | [`svg/sewing needle.svg`](svg/sewing%20needle.svg) |
+| ![shaking face](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/shaking%20face.svg) | [`svg/shaking face.svg`](svg/shaking%20face.svg) |
 | ![singer dark skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/singer%20dark%20skin%20tone.svg) | [`svg/singer dark skin tone.svg`](svg/singer%20dark%20skin%20tone.svg) |
 | ![singer light skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/singer%20light%20skin%20tone.svg) | [`svg/singer light skin tone.svg`](svg/singer%20light%20skin%20tone.svg) |
 | ![singer medium skin tone](https://raw.githubusercontent.com/C1710/blobmoji/main/svg/singer%20medium%20skin%20tone.svg) | [`svg/singer medium skin tone.svg`](svg/singer%20medium%20skin%20tone.svg) |
