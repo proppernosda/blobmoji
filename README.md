@@ -6,7 +6,7 @@ I am **neither** affiliated nor in _any_ relationship to the original creators o
 
 This repository is intended to continue the development of the Blob emojis which have been replaced by different designs in 2017.
 
-Please note that I did not create most of the emojis. You can find an overview of the changes I made in the file `CHANGED.md`
+Please note that I did not create most of the emojis. You can find an overview of the changes I made in the file `MODIFIED.md`
 
 Most information on this fork will be included in the [Wiki](https://github.com/C1710/blobmoji/wiki). There you'll find more detailed build instructions and other helpful information on how to use this font and much more.
 
@@ -50,7 +50,7 @@ Tools and most image resources are under the [Apache license, version 2.0](./LIC
 Flag images under third_party/region-flags are in the public domain or
 otherwise exempt from copyright ([more info](third_party/region-flags/LICENSE)).
 
-This license also applies to this repository
+This license also applies to this repository.
 
 # Contributing
 
